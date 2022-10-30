@@ -6,7 +6,7 @@
 <h3>Polygon</h3>
 <b>Hunt Ten: </b><a href="https://polygonscan.com/address/0x44a3ab98ba0784c5869542f93ed30db53EBFB304">0x44a3ab98ba0784c5869542f93ed30db53EBFB304</a><br>
 <b>Wild Five: </b><a href="https://polygonscan.com/address/0x1083BC82662cF0599723B13d927eeFceEec358Fb">0x1083BC82662cF0599723B13d927eeFceEec358Fb</a>
-
+<br><br>
 <h2>In Game Cryptocurrencies</h2>
 <h3>BNB Smart Chain</h3>
 <b>Betting Token: </b><a href="https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955">Binance-Peg BSC-USD (Tether USDT BEP-20)</a><br>
